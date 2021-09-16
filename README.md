@@ -2,7 +2,8 @@
 
  Bu Repo [Kodluyoruz](https://www.kodluyoruz.org/) Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
- ![image][C:\Users\HP\Pictures\Screenshots\Ekran Görüntüsü(188).png]
+ ![Ekran Görüntüsü (188)](https://user-images.githubusercontent.com/81246450/133586360-ea686808-e50f-43ac-959a-254fb8feb55b.png)
+
 
  ## Installation
  Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
